@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springHiber:war exploded">
+    <output-path>$PROJECT_DIR$/target/springHiber</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springHiber" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="springHiber/web/Web" />
+    </root>
+  </artifact>
+</component>
